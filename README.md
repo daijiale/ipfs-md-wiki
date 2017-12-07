@@ -1,13 +1,9 @@
 # 【区块链】利用IPFS构建自己的去中心化分布式Wiki系统
 
-@(小枫Blog)
-
 >IPFS全称InterPlanetary File System，中文名：星际文件系统，是一个旨在创建持久且分布式存储和共享文件的网络传输协议。
 >它是一种内容可寻址的对等超媒体分发协议。在IPFS网络中的节点将构成一个分布式文件系统。它是一个开放源代码项目，自2014年开始由Protocol Labs （协议实验室）在开源社区的帮助下发展。其最初由Juan Benet设计。
 >IPFS是点对点的超媒体协议，可以让网络更快、更安全、更开放。它是一个面向全球的、点对点的分布式版本文件系统，试图将所有具有相同文件系统的计算设备连接在一起。
 >官网：https://ipfs.io/
-
-[TOC]
 
 ![](http://daijiale-cn.oss-cn-hangzhou.aliyuncs.com/djl-blog-pic/ipfs/ipfs_io.png)
 
