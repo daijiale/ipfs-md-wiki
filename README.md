@@ -100,6 +100,10 @@ IPFS的网络上运行着一条区块链，即用来存储互联网文件的哈�
 
 - 从IPFS的介绍可以看出， IPFS设想的是让所有的网络终端节点不仅仅只充当 Browser或Client的角色，其实人人都可以作为这个网络的运营者，人人都可以是服务器。
 
+### 1.3 IPFS应用场景
+
+![](http://daijiale-cn.oss-cn-hangzhou.aliyuncs.com/djl-blog-pic/ipfs/ipfs-app.jpeg)
+
 
 ## 二、IPFS 配置
 
